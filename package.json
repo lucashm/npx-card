@@ -1,0 +1,19 @@
+{
+  "name": "lucashm",
+  "version": "1.0.2",
+  "description": "my npx card",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "commander": "^5.1.0",
+    "yargs": "^15.4.1"
+  }
+}
